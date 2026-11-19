@@ -1,0 +1,6 @@
+node_modules/
+data/
+pixelfx/
+tests/
+.DS_Store
+README.md

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="256" height="256" shape-rendering="crispEdges" role="img" aria-label="LOOT: a pixel chest with gold light leaking from its seam">
+  <title>LOOT</title>
+  <!-- outline silhouette -->
+  <g fill="#1d0638">
+    <rect x="7" y="4" width="18" height="1"/>
+    <rect x="5" y="5" width="22" height="1"/>
+    <rect x="3" y="6" width="26" height="6"/>
+    <rect x="3" y="12" width="1" height="2"/>
+    <rect x="28" y="12" width="1" height="2"/>
+    <rect x="3" y="14" width="26" height="14"/>
+  </g>
+  <!-- lid -->
+  <rect x="8" y="5" width="16" height="1" fill="#ff7ac8"/>
+  <rect x="6" y="6" width="20" height="1" fill="#ff7ac8"/>
+  <rect x="4" y="7" width="24" height="4" fill="#c21b8e"/>
+  <rect x="4" y="11" width="24" height="1" fill="#4a1275"/>
+  <!-- light leaking from the seam -->
+  <rect x="4" y="12" width="24" height="1" fill="#ffffff"/>
+  <rect x="4" y="13" width="24" height="1" fill="#ffb400"/>
+  <!-- body -->
+  <rect x="4" y="14" width="24" height="13" fill="#4a1275"/>
+  <rect x="4" y="14" width="24" height="1" fill="#19e3d1"/>
+  <rect x="4" y="15" width="24" height="1" fill="#c21b8e"/>
+  <rect x="4" y="21" width="24" height="1" fill="#2a0a52"/>
+  <!-- straps -->
+  <g fill="#19e3d1">
+    <rect x="7" y="6" width="3" height="6"/>
+    <rect x="22" y="6" width="3" height="6"/>
+    <rect x="7" y="15" width="3" height="12"/>
+    <rect x="22" y="15" width="3" height="12"/>
+  </g>
+  <g fill="#ffb400">
+    <rect x="7" y="6" width="1" height="6"/>
+    <rect x="22" y="6" width="1" height="6"/>
+    <rect x="7" y="15" width="1" height="12"/>
+    <rect x="22" y="15" width="1" height="12"/>
+  </g>
+  <!-- sparkles: light escaping the seam -->
+  <g fill="#ffe066">
+    <rect x="16" y="1" width="1" height="1"/>
+    <rect x="15" y="2" width="3" height="1"/>
+    <rect x="16" y="3" width="1" height="1"/>
+  </g>
+  <rect x="16" y="2" width="1" height="1" fill="#ffffff"/>
+  <g fill="#ffb400">
+    <rect x="10" y="2" width="1" height="1"/>
+    <rect x="22" y="1" width="1" height="1"/>
+  </g>
+  <!-- lock plate and keyhole -->
+  <rect x="13" y="14" width="6" height="7" fill="#1d0638"/>
+  <rect x="14" y="15" width="4" height="5" fill="#ffb400"/>
+  <rect x="14" y="15" width="4" height="1" fill="#ffe066"/>
+  <rect x="15" y="16" width="2" height="2" fill="#1d0638"/>
+  <rect x="15" y="18" width="2" height="1" fill="#1d0638"/>
+</svg>
